@@ -29,3 +29,5 @@ TimeLogicAdapter: The TimeLogicAdapter identifies statements in which a question
 # Step 5. Training, Communication, and Testing :
 For the training process, you will need to pass in a list of statements where the order of each statement is based on its placement in a given conversation. We have to train the bot to improve its performance for this we need to call the train() method by passing a list of sentences. Training ensures that the bot has enough knowledge to get started with specific responses to specific inputs. After training, let’s check its communication skills. And the last step is to do testing
 
+# Referance
+https://www.geeksforgeeks.org/chat-bot-in-python-with-chatterbot-module/
